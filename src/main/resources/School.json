@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "defaultSchema": "school",
+  "schemas": [
+    {      
+      "type": "custom",
+      "name": "school",
+      "factory": "org.klordy.calcite.factory.MemorySchemaFactory",
+      "operand": {
+        "param1": "username",
+        "param2": "password"
+      }
+    }
+  ]
+}
