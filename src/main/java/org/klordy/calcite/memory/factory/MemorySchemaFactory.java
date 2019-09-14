@@ -1,9 +1,9 @@
-package org.klordy.calcite.factory;
+package org.klordy.calcite.memory.factory;
 
 import org.apache.calcite.schema.Schema;
 import org.apache.calcite.schema.SchemaFactory;
 import org.apache.calcite.schema.SchemaPlus;
-import org.klordy.calcite.schema.MemorySchema;
+import org.klordy.calcite.memory.schema.MemorySchema;
 
 import java.util.Map;
 

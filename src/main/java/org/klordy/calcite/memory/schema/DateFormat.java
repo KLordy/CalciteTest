@@ -1,4 +1,4 @@
-package org.klordy.calcite.schema;
+package org.klordy.calcite.memory.schema;
 
 import java.sql.Date;
 import java.text.SimpleDateFormat;

@@ -1,4 +1,4 @@
-package org.klordy.calcite;
+package org.klordy.calcite.application;
 
 import java.sql.*;
 import java.util.Properties;

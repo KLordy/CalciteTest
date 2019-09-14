@@ -1,4 +1,4 @@
-package org.klordy.calcite.schema;
+package org.klordy.calcite.memory.schema;
 
 import org.apache.calcite.DataContext;
 import org.apache.calcite.linq4j.AbstractEnumerable;
